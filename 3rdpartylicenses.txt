@@ -60,6 +60,9 @@ THE SOFTWARE.
 @angular/platform-browser
 MIT
 
+@angular/router
+MIT
+
 @babel/runtime
 MIT
 MIT License
@@ -148,6 +151,12 @@ Apache-2.0
 
 @firebase/webchannel-wrapper
 Apache-2.0
+
+@ngx-translate/core
+MIT
+
+@ngx-translate/http-loader
+MIT
 
 bootstrap
 MIT
@@ -864,6 +873,8 @@ Exemptions
 
 Please either apply this, the MIT license, or the license in './FEEL-FREE.md'
 
+
+rxfire/auth
 
 rxjs
 Apache-2.0
